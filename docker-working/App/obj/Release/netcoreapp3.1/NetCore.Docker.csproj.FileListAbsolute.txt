@@ -1,0 +1,13 @@
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.exe
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.deps.json
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.json
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.dev.json
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\charles\source\repos\docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.pdb
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.csprojAssemblyReference.cache
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfoInputs.cache
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfo.cs
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.pdb
+C:\Users\charles\source\repos\docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.genruntimeconfig.cache
